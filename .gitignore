@@ -46,3 +46,7 @@ chroma_db
 
 ## compressed
 **/*.tgz
+
+# environment
+env/*
+venv/+
